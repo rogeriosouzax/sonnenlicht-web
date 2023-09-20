@@ -15,7 +15,7 @@ timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Sonnenlicht # the main title
+title: SLT Company # the main title
 
 tagline: Software Development and Consulting # it will display as the sub-title
 
@@ -36,7 +36,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Rogerio da Silva Souza
-  email: rogeriosouzax@hotmail.com # change to your email address
+  email: rogerio.souza@sltcompany.com.br # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Rogerio76020004 # change to your twitter homepage
